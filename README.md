@@ -1,0 +1,2 @@
+# Tracking-Vegetation-Peak-Green-By-Visible-Color-Spectra
+This script takes visible light images (i.e. from any camera) and provides the means to crop the image to a desired section and then convert those color values to several color spectra systems (e.g. RGB, vNDVI) to track peak green in vegetation at a given location. This tool can also be used to track the presence of snow in images. These values are then plotted by date to show yearly variation.
